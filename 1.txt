@@ -1,0 +1,5 @@
+1 school
+2 table
+3 apple
+4 desktop
+5 sun
